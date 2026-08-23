@@ -7,7 +7,7 @@ num.sort()
 print(num)
 print("SECOND LARGEST NUMBER: ", num[-2])
 
-#Using The best optimal solution
+#Using The best optimal solution without sorting 
 
 nums = list(map(int, input("Enter numbers for the list: ").split(',')))
 n = len(nums)
