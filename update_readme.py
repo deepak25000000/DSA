@@ -19,12 +19,7 @@ def main():
     total = sum(directories.values())
     
     def get_status(count):
-        if count == 0:
-            return "⏳ Not Started"
-        elif count < 5:
-            return "🌱 Started"
-        else:
-            return "🔥 Active"
+        return "🔥 Active"
 
     readme_content = f"""<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=DSA%20Journey%20&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Mastering%20Data%20Structures%20and%20Algorithms&descAlignY=55&descAlign=50" />

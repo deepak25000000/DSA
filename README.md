@@ -23,8 +23,8 @@
 | :--- | :---: | :---: |
 | 🧮 **[Simple Maths / Operations](./Simple_Operations)** | <kbd> 8 </kbd> | 🔥 Active |
 | 📋 **[Arrays / Lists](./List_array)** | <kbd> 10 </kbd> | 🔥 Active |
-| 🔄 **[Sorting](./Sorting)** | <kbd> 1 </kbd> | 🌱 Started |
-| 🏗️ **[Object-Oriented Programming (OOPS)](./OOPS)** | <kbd> 2 </kbd> | 🌱 Started |
+| 🔄 **[Sorting](./Sorting)** | <kbd> 1 </kbd> | 🔥 Active |
+| 🏗️ **[Object-Oriented Programming (OOPS)](./OOPS)** | <kbd> 2 </kbd> | 🔥 Active |
 | **🏆 Total Solved** | <kbd> 21 </kbd> | 🚀 Keep Going! |
 
 </details>
