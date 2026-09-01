@@ -4,6 +4,7 @@
   <br>
 
   [![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/deepak_thorat_25/)
   [![Progress](https://img.shields.io/badge/Total_Solved-21-2ea44f?style=for-the-badge)]()
   [![Daily Coding](https://img.shields.io/badge/Status-Active_🔥-ff69b4?style=for-the-badge)]()
   
