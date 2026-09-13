@@ -6,5 +6,9 @@ for i in range(0, n-1):
         if(nums[i]+nums[j] == target):
             print(i,j)
             break
-        
+
+'''
+    T.C = O(n^2)
+    S.C = O(1)
+'''
             
