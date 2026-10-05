@@ -18,4 +18,6 @@ while low<=high:
         floor = nums[mid]
         low = mid + 1
 print(floor, ceil)
+#TC = O(logn)
+#SC = O(1)
 
