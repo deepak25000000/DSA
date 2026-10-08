@@ -28,9 +28,18 @@ print(solution.search(nums, target))
 '''
 https://leetcode.com/problems/search-in-rotated-sorted-array/
 
-TC = O(logN)
-SC = O(1)
+brute force solution:
+for i in range (0, n):
+    if nums[i] == target:
+        return i
+    return -1
+    TC for Brute force  is O(N)
+    SC for Brute force is O(1)
+
+TC = O(logN) for optimal solution 
+SC = O(1) for optimal solution
 '''
+
         
 
             
