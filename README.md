@@ -5,7 +5,7 @@
 
   [![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
   [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/deepak_thorat_25/)
-  [![Progress](https://img.shields.io/badge/Total_Solved-29-2ea44f?style=for-the-badge)]()
+  [![Progress](https://img.shields.io/badge/Total_Solved-30-2ea44f?style=for-the-badge)]()
   [![Daily Coding](https://img.shields.io/badge/Status-Active_🔥-ff69b4?style=for-the-badge)]()
   
   <i>My personal repository for tracking Data Structures and Algorithms practice, problems, and concepts.</i>
@@ -23,9 +23,9 @@
 | :--- | :---: | :---: |
 | 🧮 **[Simple Maths / Operations](./Simple_Operations)** | <kbd> 8 </kbd> | 🔥 Active |
 | 📋 **[Arrays / Lists](./List_array)** | <kbd> 16 </kbd> | 🔥 Active |
-| 🔄 **[Sorting](./Sorting)** | <kbd> 3 </kbd> | 🔥 Active |
+| 🔄 **[Sorting](./Sorting)** | <kbd> 4 </kbd> | 🔥 Active |
 | 🏗️ **[Object-Oriented Programming (OOPS)](./OOPS)** | <kbd> 2 </kbd> | 🔥 Active |
-| **🏆 Total Solved** | <kbd> 29 </kbd> | 🚀 Keep Going! |
+| **🏆 Total Solved** | <kbd> 30 </kbd> | 🚀 Keep Going! |
 
 </details>
 
