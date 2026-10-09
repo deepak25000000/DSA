@@ -11,6 +11,8 @@ solution = Solution()
 nums = [3,5,2,8,1]
 print(solution.bubble_sort(nums))
 '''
+Bubble sort swaps the adjcaent element with the current element if the element is greater than 
+the next element
 TC = O(N^2)
 SC = O(1)
 https://www.geeksforgeeks.org/problems/bubble-sort/1
