@@ -10,7 +10,7 @@ class Singly_linked_list:
     def append(self, val): #adding a node at the end of the list
         new_node = Node(val)
         if self.head == None:
-            self.head = Node
+            self.head = new_node
         else:
             current = self.head
             while current.next is not None:
@@ -26,6 +26,7 @@ class Singly_linked_list:
                 print(current.val, end="")
                 current = current.next
                 print()
+
     def insert_at(self, val, position): #inserting at a perticular postion in linked list
         new_node = Node(val)
         if position == 0:
@@ -52,7 +53,7 @@ class Singly_linked_list:
                 prev = None
                 while temp is not None:
                     if temp.val ==val:
-                        fount = True
+                        found = True
                         break
                     prev = temp
                     temp = temp.next
@@ -74,3 +75,4 @@ print(node1.next)
 
 
         
+
