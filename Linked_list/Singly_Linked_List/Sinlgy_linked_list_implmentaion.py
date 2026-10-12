@@ -44,11 +44,11 @@ class Singly_linked_list:
             new_node.next = current
     def delete(self, val):
         temp = self.head
-        if temp is not None:
+        if temp is not None: #this loop if the value to delete is the first node 
             if temp.val == val:
                 self.head = temp.next
                 return
-            else:
+            else: #this loop if the value to delete is in between the first and last node and is the last node
                 found = False
                 prev = None
                 while temp is not None:
@@ -63,15 +63,14 @@ class Singly_linked_list:
                 else:
                     print("node not found ")
 
-node1 = Node(34)
-node2 = Node(45)
-node1.next = node2
-print(node1.val)
-print(node1.next.val)
-print(node1.next.next)
-print(node1)
-print(node2)
-print(node1.next)
+sll = Singly_linked_list()
+sll.append(10)
+sll.append(20)
+sll.append(56)
+sll.append(76)
+sll.insert_at(30, 2)
+sll.delete(10)
+sll.traversal()
 
 
         
