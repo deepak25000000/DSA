@@ -5,9 +5,9 @@
 
   [![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
   [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/deepak_thorat_25/)
-  [![Progress](https://img.shields.io/badge/Total_Solved-34-2ea44f?style=for-the-badge)]()
+  [![Progress](https://img.shields.io/badge/Total_Solved-44-2ea44f?style=for-the-badge)]()
   [![Daily Coding](https://img.shields.io/badge/Status-Active_🔥-ff69b4?style=for-the-badge)]()
-  
+
   <i>My personal repository for tracking Data Structures and Algorithms practice, problems, and concepts.</i>
 </div>
 
@@ -24,8 +24,10 @@
 | 🧮 **[Simple Maths / Operations](./Simple_Operations)** | <kbd> 8 </kbd> | 🔥 Active |
 | 📋 **[Arrays / Lists](./List_array)** | <kbd> 18 </kbd> | 🔥 Active |
 | 🔄 **[Sorting](./Sorting)** | <kbd> 6 </kbd> | 🔥 Active |
+| 🎯 **[Binary Search](./Binary_search)** | <kbd> 7 </kbd> | 🔥 Active |
+| 🔗 **[Linked List](./Linked_list)** | <kbd> 3 </kbd> | 🔥 Active |
 | 🏗️ **[Object-Oriented Programming (OOPS)](./OOPS)** | <kbd> 2 </kbd> | 🔥 Active |
-| **🏆 Total Solved** | <kbd> 34 </kbd> | 🚀 Keep Going! |
+| **🏆 Total Solved** | <kbd> 44 </kbd> | 🚀 Keep Going! |
 
 </details>
 
@@ -35,11 +37,15 @@
 
 Here's a quick overview of what you will find in this repository:
 
-> **Note**: Each folder contains python files with my solutions and approaches to various problems.
+> **Note**: Each folder contains Python files with my solutions and approaches to various problems. This README is **auto-generated and auto-updated by GitHub Actions** — new topic folders, subfolders, and solution files are detected automatically on every push.
 
-* 📁 **`List_array/`** — *Contains solutions for Array and List-based problems (e.g., searching, modifying arrays, moving zeros, finding missing numbers).*
 * 📁 **`Simple_Operations/`** — *Basic math operations, digit manipulation, palindromes, and introductory logic problems.*
+* 📁 **`List_array/`** — *Contains solutions for Array and List-based problems (e.g., searching, modifying arrays, moving zeros, finding missing numbers).*
 * 📁 **`Sorting/`** — *Implementations and problems related to popular sorting algorithms like Merge Sort.*
+* 📁 **`Binary_search/`** — *Binary search variants on arrays — classic search, insert position, first/last occurrence, ceil/floor, and rotated sorted arrays (with and without duplicates).*
+* 📁 **`Linked_list/`** — *Linked list implementations and problems, organized into `Singly_Linked_List/` and `Doubly_Linked_list/` subfolders.*
+  * 📁 **`Linked_list/Doubly_Linked_list/`** — *Empty — coming soon*
+  * 📁 **`Linked_list/Singly_Linked_List/`** — *3 solution files*
 * 📁 **`OOPS/`** — *Concepts and problems related to Object-Oriented Programming in Python (classes, inheritance, etc).*
 
 ---

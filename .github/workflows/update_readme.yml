@@ -4,11 +4,10 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'List_array/**'
-      - 'Simple_Operations/**'
-      - 'Sorting/**'
-      - 'OOPS/**'
+    # Ignore README-only commits (including the bot's own commits) to avoid loops.
+    # Any other push (new topic folders, new problems, script changes) triggers the update.
+    paths-ignore:
+      - 'README.md'
   workflow_dispatch:
 
 jobs:
@@ -16,19 +15,19 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      
+
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v4
-      
+
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
-        
+
     - name: Run Update Script
       run: python update_readme.py
-      
+
     - name: Commit and Push Changes
       run: |
         git config --global user.name 'github-actions[bot]'
